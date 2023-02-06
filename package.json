@@ -1,0 +1,13 @@
+{
+  "name": "gpt-cmd",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "chatgpt": "^4.1.1",
+    "clipboardy": "^3.0.0",
+    "node-fetch": "^3.3.0",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "module": "gpt.js"
+}
